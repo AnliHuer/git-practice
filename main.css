@@ -1,0 +1,31 @@
+body {
+  background-image: url('login-background.jpg');
+  background-size:100% auto;
+  height: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  opacity: 0.7;
+}
+
+.sign-label {
+  background-color: #ffffff;
+  margin-top:100px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.form-signin-heading{
+  margin-bottom: 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#sign-in-button, #inputUsername, #inputPassword{
+  margin-bottom: 20px;
+}
